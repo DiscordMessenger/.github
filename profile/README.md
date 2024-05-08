@@ -10,8 +10,9 @@ linked as submodules within the main Git repository.
 
 ## Why?
 
-Discord is notorious for using a lot of system resources, and oftentimes these old systems can't
-even get the chance to run the official application, simply because of the high requirements.
+The official Discord client is notorious for using a lot of system resources, and oftentimes these
+old systems can't even get the chance to run the official application, simply because of the high
+requirements.
 
 Instead of trying your darndest to upgrade your scrappy old computers to Windows 10/11, why not
 use an unofficial client for Discord that actually works on your computer already?
